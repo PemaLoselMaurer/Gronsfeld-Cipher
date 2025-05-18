@@ -21,3 +21,5 @@ def break_gronsfeld(ciphertext, key_length, wordlist=None):
 
 # Example usage:
 # break_gronsfeld("KHOOR ZRUOG", 5, wordlist=["HELLO"])
+# "KHOOR ZRUOG" is "HELLO WORLD" encrypted with key 33333.
+
